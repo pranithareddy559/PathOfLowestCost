@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PathOfLowestCost</string>
+    <string name="path_hint">Please enter the input matrix here. Each row should be separated with next line and each element in row should be separated by space.</string>
+    <string name="button_text">Calculate the lowest cost path</string>
+    <string name="invalid_input_title">Invalid input</string>
+    <string name="invalid_input_msg">"The input entered is invalid. Please re-check input and try again."</string>
+    <string name="result_title">Result</string>
+
+</resources>
